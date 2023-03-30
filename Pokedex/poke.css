@@ -1,0 +1,109 @@
+/* url: https://medium.com/@sergio13prez/fetching-them-all-poke-api-62ca580981a2 */
+html,body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#position {
+    display: inline-block;
+    width: 80%;
+}
+
+#container {
+    margin: auto;
+    width: 80%;
+}
+
+#poke-container {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+
+#header-container {
+    border-radius: 0px !important;
+}
+
+/*
+#header-text{
+    margin: 0 auto;
+}
+*/
+
+#generate-pokemon {
+    margin: 0 auto;
+}
+
+#delete-btn {
+    position: absolute;
+    left: 85%;
+    display: none;
+    margin-bottom: 5%;
+}
+
+li {
+    text-align: justify;
+}
+
+/*
+
+.pokeballContainer {
+    position: relative;
+    margin:auto;
+    width: 8%; height: 100%;
+    z-index: 99;
+}
+
+.pokeball {
+    display: inline;
+    position: absolute;
+    width: 100px; height: 100px;
+    top: 0px; left: 0px;
+    background-image: url("pokeball.png");
+    background-size: 30% 30%;
+    background-position: center;
+    background-repeat:no-repeat;
+    
+    -webkit-animation: drop 4s infinite normal;
+    animation: drop 4s infinite normal;
+    z-index: 100;
+}
+
+.left {
+    top: 5%; left: 5%;
+}
+
+.right {
+    top: 5%; right: 5%;
+}
+
+@-webkit-keyframes drop {
+    0% {
+        top: 0%;
+        -webkit-animation-timing-function: ease-in;
+        animation-timing-function: ease-in;
+    }
+    100% {
+        top: 80%;
+        -webkit-animation-timing-function: ease-out;
+        animation-timing-function: ease-out;
+    }
+}
+
+@keyframes drop {
+    0% {
+        top: 0%;
+        -webkit-animation-timing-function: ease-in;
+        animation-timing-function: ease-in;
+    }
+    100% {
+        top: 80%;
+        -webkit-animation-timing-function: ease-out;
+        animation-timing-function: ease-out;
+    }
+}
+
+.hide {
+    display: none;
+}*/
